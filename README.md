@@ -23,3 +23,5 @@ changes cancel
 
 ## Learning Objective
 To develop practical Data Analyst skills and generate meaningful business insights using data.
+## Python Practice
+I will upload my Python and Pandas practice tasks here.
